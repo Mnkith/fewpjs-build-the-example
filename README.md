@@ -1,5 +1,5 @@
 # Stitching Together the Three Pillars
-
+ 
 ## Learning Goals
 
 * Set up an event listener to respond to a user action
